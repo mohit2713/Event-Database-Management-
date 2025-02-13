@@ -1,0 +1,6 @@
+.EmployeData-img{
+   width: 220px;
+   height: 220px;
+   border-radius: 100%;
+   object-fit: cover;
+}
