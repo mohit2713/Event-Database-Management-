@@ -79,7 +79,7 @@ const Body = () => {
       <div className="Employee-container">
         <div className="Employee-list-container">
           {/* // Employee list */}
-          <h2>Employee list</h2>
+          <h2 className="Employee-list-containe-heading">Employees list</h2>
           <hr></hr>
           {employees.map((item, index) => {
             return (
